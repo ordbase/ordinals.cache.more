@@ -9,7 +9,7 @@ See [**Ordinals (Pixel Art) Sandbox (& Cache) »** ](https://github.com/ordbase/
 
 
 
-# Questions? Comments?
+## Questions? Comments?
 
 Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
