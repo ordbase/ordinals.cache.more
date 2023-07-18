@@ -4,7 +4,7 @@ Ordinals (Pixel Art) Sandbox (& Cache)?
 See [**Ordinals (Pixel Art) Sandbox (& Cache) »** ](https://github.com/ordbase/ordinals.sandbox)
 
 
-# More Ordinals (Inscription Metadata & Content) Cache - Vol. 2 - Litecoin, Dogecoin & Co. 
+# (More) Ordinals (Inscription Metadata & Content) Cache - Vol. 2 - Litecoin, Dogecoin & Co. 
 
 
 
